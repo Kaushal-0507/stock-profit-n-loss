@@ -54,26 +54,3 @@ input {
     margin: 1rem auto;
     font-size: larger;
 }
-
-#footer {
-    background-color: var(--primary-second);
-    position: relative;
-    width: 100%;
-    bottom: 0;
-    padding: 1.5rem 0 0.5rem 0;
-}
-
-#footer #links-social {
-    list-style-type: none;
-    padding-inline-start: 0px;
-}
-
-#footer #links-social .social {
-    display: inline-block;
-    padding: 0.5rem;
-}
-
-#footer #links-social .social .ionicons {
-    font-size: 32px;
-    color: var(--primary-first);
-}
